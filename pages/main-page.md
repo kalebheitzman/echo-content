@@ -3,7 +3,7 @@ template: main-page
 title: Home
 pageGraphics:
   headerLogo: /assets/echo-logo.png
-  featuredImage: /assets/echo-lobby.jpg
+  featuredImage: /assets/pexels-kehn-hermano-4001404.jpg
 pageBranding:
   htmlBackground: "#333333"
   bodyBackground: "#ffffff"
