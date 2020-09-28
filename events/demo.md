@@ -9,7 +9,7 @@ eventInformation:
     value: America/Dawson
     label: (GMT-7:00) Pacific Time (US and Canada); Tijuana
 eventGraphics:
-  lobbyImage: /assets/pexels-kehn-hermano-4001404.jpg
+  lobbyImage: /assets/echo-lobby.jpg
   headerLogo: /assets/echo-logo.png
 eventBranding:
   htmlBackground: "#333333"
