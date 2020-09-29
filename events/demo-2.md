@@ -10,7 +10,7 @@ eventInformation:
     label: (GMT-7:00) Pacific Time (US and Canada); Tijuana
 eventGraphics:
   lobbyImage: /assets/echo-lobby.jpg
-  headerLogo: /assets/echo-logo.png
+  headerLogo: /assets/pexels-kehn-hermano-4001404.jpg
 eventBranding:
   htmlBackground: "#333333"
   bodyBackground: "#ffffff"
