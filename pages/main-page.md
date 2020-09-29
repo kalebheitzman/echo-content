@@ -5,7 +5,7 @@ pageGraphics:
   headerLogo: /assets/echo-logo.png
   featuredImage: /assets/pexels-kehn-hermano-4001404.jpg
 pageBranding:
-  htmlBackground: "#333333"
+  htmlBackground: "#333332"
   bodyBackground: "#ffffff"
   primaryBackground: "#ac95f4"
   primaryBackgroundHover: "#b89eff"
